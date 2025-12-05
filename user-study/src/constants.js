@@ -9,7 +9,7 @@ export const WEBSITES = {
 };
 
 export const DESIGN_APPROACH = {
-  BASELINE: "baseline" 
+  AUTOMATION: "automation" 
 }
 
 export const EVENT_TYPES = {
